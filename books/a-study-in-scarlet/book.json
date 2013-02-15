@@ -18,6 +18,8 @@
     "-baker-page-numbers-color": "#000000",
 
     "contents": [
+        "forside.html",
+        "artikkel1.html",
         "Book Cover.html",
         "Book Index.html",
         "Part1-01.html",
