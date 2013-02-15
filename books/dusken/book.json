@@ -1,0 +1,10 @@
+{
+  "title": "Under Dusken",
+  "author": "Studentavisa i Trondheim",
+  "url": "book://dusken.no",
+  
+  "contents": [
+    "forside.html",
+    "artikkel1.html"
+  ]
+}
