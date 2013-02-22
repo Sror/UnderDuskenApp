@@ -16,6 +16,10 @@
 			<array>
 				<string>ios-icon-iphone</string>
 				<string>ios-icon-ipad</string>
+				<string>ios-icon-iphone.png</string>
+				<string>ios-icon-iphone@2x.png</string>
+				<string>ios-icon-ipad@2x.png</string>
+				<string>ios-icon-ipad.png</string>
 			</array>
 			<key>UIPrerenderedIcon</key>
 			<false/>
@@ -55,6 +59,8 @@
 	<array>
 		<string>armv7</string>
 	</array>
+	<key>UIStatusBarHidden</key>
+	<true/>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
