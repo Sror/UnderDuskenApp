@@ -1,0 +1,24 @@
+{
+    "hpub": 1,
+    "title": "Under Dusken 1",
+    "author": ["Under Dusken"],
+    "creator": ["Under Dusken"],
+    "date": "2013-01-01",
+    "url": "book://dusken.no",
+    "cover": "images/forside2.png",
+
+    "orientation": "both",
+    "zoomable": false,
+
+    "-baker-background": "#000000",
+    "-baker-vertical-bounce": true,
+    "-baker-media-autoplay": true,
+    "-baker-background-image-portrait": "gfx/background-portrait.png",
+    "-baker-background-image-landscape": "gfx/background-landscape.png",
+    "-baker-page-numbers-color": "#000000",
+
+    "contents": [
+        "forside.html",
+        "artikkel1.html"
+    ]
+}
