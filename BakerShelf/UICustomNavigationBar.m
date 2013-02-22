@@ -48,6 +48,7 @@
     }
     return backgroundImages;
 }
+
 - (UIImageView *)backgroundImageView
 {
     if (!backgroundImageView) {
@@ -57,6 +58,7 @@
     }
     return backgroundImageView;
 }
+
 - (void)setBackgroundImage:(UIImage *)backgroundImage forBarMetrics:(UIBarMetrics)barMetrics
 {
     if ([UINavigationBar instancesRespondToSelector:@selector(setBackgroundImage:forBarMetrics:)]) {
