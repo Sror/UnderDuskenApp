@@ -1,0 +1,25 @@
+firkant {
+	/*height: 20px;
+	width: 15px;
+ /* Now we can use any type of border.
+	 we can define each value separately or combine,
+	 well personally i prefer combine method */
+
+	 background-color: rgb(86,132,132);
+	 color: white;
+	 float: left;
+	 padding-left: 7px;
+	 padding-right: 7px;
+	 padding-top: 2px;
+	 padding-bottom: 2px;
+	}
+
+	.line-separator{
+
+		height:1px;
+
+		background:#717171;
+
+		border-bottom:1px solid #313030;
+
+	}
