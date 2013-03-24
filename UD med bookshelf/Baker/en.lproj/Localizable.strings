@@ -1,47 +1,47 @@
 
 // Shelf Navigation Title at the top of the main Issues List
-"SHELF_NAVIGATION_TITLE" = "Baker Shelf";
+"SHELF_NAVIGATION_TITLE" = "Under Dusken";
 
 // Subscription button
-"SUBSCRIBE_BUTTON_TEXT" = "Subscribe";
-"SUBSCRIBE_BUTTON_DISABLED_TEXT" = "Subscribing...";
+"SUBSCRIBE_BUTTON_TEXT" = "Abonner";
+"SUBSCRIBE_BUTTON_DISABLED_TEXT" = "Abonnerer...";
 
 // Subscription alerts
-"SUBSCRIPTION_SUCCESSFUL_TITLE" = "Subscribed successfully";
-"SUBSCRIPTION_SUCCESSFUL_MESSAGE" = "You have successfully subscribed";
-"SUBSCRIPTION_SUCCESSFUL_CLOSE" = "Close";
-"SUBSCRIPTION_FAILED_TITLE" = "Subscription failure";
-"SUBSCRIPTION_FAILED_CLOSE" = "Close";
+"SUBSCRIPTION_SUCCESSFUL_TITLE" = "Vellykket abonnement";
+"SUBSCRIPTION_SUCCESSFUL_MESSAGE" = "Du abonnomerer nå på Under Dusken";
+"SUBSCRIPTION_SUCCESSFUL_CLOSE" = "Lukk";
+"SUBSCRIPTION_FAILED_TITLE" = "Abonnement feilet";
+"SUBSCRIPTION_FAILED_CLOSE" = "Lukk";
 
 // Download alert
-"DOWNLOAD_FAILED_TITLE" = "Download failed";
-"DOWNLOAD_FAILED_MESSAGE" = "The issue could not be downloaded";
-"DOWNLOAD_FAILED_CLOSE" = "Close";
+"DOWNLOAD_FAILED_TITLE" = "Nedlasting feilet";
+"DOWNLOAD_FAILED_MESSAGE" = "Kunne ikke laste ned denne utgaven";
+"DOWNLOAD_FAILED_CLOSE" = "Lukk";
 
 // Connection alert
-"INTERNET_CONNECTION_UNAVAILABLE_TITLE" = "No Internet Connection";
-"INTERNET_CONNECTION_UNAVAILABLE_MESSAGE" = "An Internet connection is unavailable. Some features of this application require an active connection.";
+"INTERNET_CONNECTION_UNAVAILABLE_TITLE" = "Ingen internett tilkobling tilgjengelig";
+"INTERNET_CONNECTION_UNAVAILABLE_MESSAGE" = "Det er ingen internett tilkobling tilgjengelig. Noen funksjoner i denne applikasjonen krever en nett tilkobling.";
 "INTERNET_CONNECTION_UNAVAILABLE_CLOSE" = "OK";
 
 // Issue buttons
-"ACTION_REMOTE_TEXT" = "DOWNLOAD";
-"ACTION_DOWNLOADED_TEXT" = "READ";
-"ARCHIVE_TEXT" = "ARCHIVE";
-"CONNECTING_TEXT" = "CONNECTING...";
-"DOWNLOADING_TEXT" = "DOWNLOADING ...";
-"OPENING_TEXT" = "Loading...";
+"ACTION_REMOTE_TEXT" = "LAST NED";
+"ACTION_DOWNLOADED_TEXT" = "LES";
+"ARCHIVE_TEXT" = "ARKIVER";
+"CONNECTING_TEXT" = "KOBLER TIL...";
+"DOWNLOADING_TEXT" = "LASTER NED ...";
+"OPENING_TEXT" = "Laster...";
 
 // Archiving alert
-"ARCHIVE_ALERT_TITLE" = "Are you sure you want to archive this item?";
-"ARCHIVE_ALERT_MESSAGE" = "This item will be removed from your device. You may download it at anytime for free.";
-"ARCHIVE_ALERT_BUTTON_CANCEL" = "Cancel";
-"ARCHIVE_ALERT_BUTTON_OK" = "Archive";
+"ARCHIVE_ALERT_TITLE" = "Er du sikker på at du vil arkivere denne utgaven?";
+"ARCHIVE_ALERT_MESSAGE" = "Denne utgaven vil bli slettet fra enheten din. Du kan når som helst laste den ned igjen gratis";
+"ARCHIVE_ALERT_BUTTON_CANCEL" = "Avbryt";
+"ARCHIVE_ALERT_BUTTON_OK" = "Arkiver";
 
 // Mail alert
-"MAILTO_ALERT_TITLE" = "Failure";
-"MAILTO_ALERT_MESSAGE" = "Your device doesn't support the sending of emails!";
+"MAILTO_ALERT_TITLE" = "Feil";
+"MAILTO_ALERT_MESSAGE" = "Enheten din støtter ikke sending av epost!";
 "MAILTO_ALERT_CLOSE" = "OK";
 
 // Modal web view
-"WEB_MODAL_FAILURE_MESSAGE" = "Unable to connect.";
-"WEB_MODAL_CLOSE_BUTTON_TEXT" = "Back";
+"WEB_MODAL_FAILURE_MESSAGE" = "Ikke i stand til å koble til.";
+"WEB_MODAL_CLOSE_BUTTON_TEXT" = "Tilbake";

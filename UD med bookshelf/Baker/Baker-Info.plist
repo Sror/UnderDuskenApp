@@ -18,6 +18,8 @@
 				<string>ios-icon-ipad</string>
 				<string>ios-icon-ipad.png</string>
 				<string>ios-icon-ipad@2x.png</string>
+				<string>ios-icon-iphone.png</string>
+				<string>ios-icon-iphone@2x.png</string>
 			</array>
 			<key>UIPrerenderedIcon</key>
 			<false/>
@@ -65,8 +67,8 @@
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
 		<string>UIInterfaceOrientationLandscapeLeft</string>
-		<string>UIInterfaceOrientationLandscapeRight</string>
 		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
 	<key>UISupportedInterfaceOrientations~ipad</key>
 	<array>
