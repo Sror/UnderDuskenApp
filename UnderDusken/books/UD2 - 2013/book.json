@@ -19,7 +19,13 @@
 
     "contents": [
         "forside.html",
+        "3-nyhet-artikkel.html",
         "4-nyhet-artikkel.html",
+        "5-nyhet-artikkel.html",
+        "6-nyhet-artikkel.html",
+        "7-nyhet-artikkel.html",
+        "8-nyhet-artikkel.html",
+        "9-nyhet-artikkel.html",
         "5-debatt.html",
         "6-helseseksualitet.html"
     ]
